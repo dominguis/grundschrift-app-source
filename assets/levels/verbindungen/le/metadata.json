@@ -2,15 +2,15 @@
   "id": "CAB84528-B5EC-481D-8555-405A365113CE",
   "name": "le",
   "category": "verbindungen",
-  "className": "",
-  "_lastChange": 1374603936256,
   "illustrations": [
     "Elefant",
     "Qualle",
     "klettern"
   ],
+  "className": "",
   "unlockCondition": "",
-  "lineWidth": 49,
+  "lineWidth": 54,
+  "_lastChange": 1390034738193,
   "paths": [
     [
       {

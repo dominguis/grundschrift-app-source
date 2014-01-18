@@ -9,7 +9,7 @@
   "className": "green",
   "unlockCondition": "",
   "lineWidth": 44,
-  "_lastChange": 1382515773905,
+  "_lastChange": 1390034865333,
   "paths": [
     [
       {
@@ -60,7 +60,7 @@
       {
         "x": 169.84906914893617,
         "y": 284.6595744680851,
-        "isAnchor": false
+        "isAnchor": true
       },
       {
         "x": 200.19880319148936,

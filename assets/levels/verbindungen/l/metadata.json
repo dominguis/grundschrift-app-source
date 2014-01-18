@@ -2,15 +2,15 @@
   "id": "701EFF64-A578-46D5-9D1E-145644FFF5E7",
   "name": "l",
   "category": "verbindungen",
-  "className": "",
-  "_lastChange": 1374603936256,
   "illustrations": [
     "elf",
     "lila",
     "Pullover"
   ],
+  "className": "",
   "unlockCondition": "",
-  "lineWidth": 44,
+  "lineWidth": 49,
+  "_lastChange": 1390034761425,
   "paths": [
     [
       {

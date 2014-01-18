@@ -2,15 +2,15 @@
   "id": "FC9E817A-D7F3-4D7C-BE4B-22CE8292F8DC",
   "name": "g",
   "category": "kleinbuchstaben",
-  "className": "blue",
-  "_lastChange": 1374603936256,
   "illustrations": [
     "gelb",
     "groß",
     "Zwerg"
   ],
+  "className": "blue",
   "unlockCondition": "",
   "lineWidth": 44,
+  "_lastChange": 1390034897686,
   "paths": [
     [
       {
@@ -48,7 +48,8 @@
       },
       {
         "x": 29.61254826254825,
-        "y": 396.0828185328186
+        "y": 396.0828185328186,
+        "isAnchor": true
       },
       {
         "x": 35.38590733590733,
