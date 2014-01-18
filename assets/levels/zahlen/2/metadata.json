@@ -2,11 +2,11 @@
   "id": "42845E76-F33C-4CF5-9770-4B8E45169C8E",
   "name": "2",
   "category": "zahlen",
-  "className": "",
-  "_lastChange": 1374603936256,
   "illustrations": [],
+  "className": "",
   "unlockCondition": "",
   "lineWidth": 54,
+  "_lastChange": 1390032736061,
   "paths": [
     [
       {
@@ -84,7 +84,8 @@
       },
       {
         "x": 50.67087765957448,
-        "y": 513.8523936170213
+        "y": 513.8523936170213,
+        "isAnchor": true
       },
       {
         "x": 71.60172872340426,

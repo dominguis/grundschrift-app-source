@@ -2,11 +2,11 @@
   "id": "4DACB340-1A08-437A-ADC4-905F1D3049E7",
   "name": "3",
   "category": "zahlen",
-  "className": "",
-  "_lastChange": 1374603936256,
   "illustrations": [],
+  "className": "",
   "unlockCondition": "",
   "lineWidth": 56,
+  "_lastChange": 1390032766887,
   "paths": [
     [
       {
@@ -72,7 +72,8 @@
       },
       {
         "x": 124.97539893617022,
-        "y": 300.35771276595744
+        "y": 300.35771276595744,
+        "isAnchor": true
       },
       {
         "x": 143.81316489361703,
